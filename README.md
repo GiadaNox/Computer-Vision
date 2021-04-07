@@ -1,5 +1,7 @@
 # Computer-Vision
 
+Here are some of the basic ML lectures you can check out.
+
 Stanford Lecture - Convolutional Neural Networks for Visual Recognition
   1) Webpage : http://cs231n.stanford.edu/
   2) Online Lectures : https://www.youtube.com/watch?v=vT1JzLTH4G4
